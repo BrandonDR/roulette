@@ -8,7 +8,7 @@ If you lose, you double your bet until you win again. A very common strategy.
 
 Once you win on a bet of $160 or more, you cash in.
 > This is the target threshold to avoid getting carried away, once you get to bets
-> of \$160 you then have 4 games, or near 20% chance of loosing.
+> of \$160 you then have 4 games, or about a 1 in 20 chance of loosing.
 
 Let's say you attempt this once per year for 40 years, until say, retirement.
 The script will tell you how much you could have made.
