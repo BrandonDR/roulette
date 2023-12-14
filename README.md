@@ -39,48 +39,48 @@ You can change the parameters in the [index.ts](./index.ts) file and then run th
 Here is an example output this resembles a likely scenario, at the 93% typical chance of winning a game:
 
 ```sh
-Game 1: Lost! Balance: 1310 Rounds: 7
-Game 2: Won! Balance: 2900 Rounds: 7
-Game 3: Won! Balance: 2900 Rounds: 8
-Game 4: Won! Balance: 3030 Rounds: 12
-Game 5: Won! Balance: 3420 Rounds: 22
-Game 6: Lost! Balance: 1530 Rounds: 13
-Game 7: Won! Balance: 4520 Rounds: 21
-Game 8: Won! Balance: 3180 Rounds: 13
-Game 9: Won! Balance: 3140 Rounds: 10
-Game 10: Won! Balance: 2970 Rounds: 8
-Game 11: Won! Balance: 3320 Rounds: 15
-Game 12: Won! Balance: 3410 Rounds: 20
-Game 13: Won! Balance: 2930 Rounds: 5
-Game 14: Won! Balance: 3560 Rounds: 14
-Game 15: Won! Balance: 3640 Rounds: 23
-Game 16: Lost! Balance: 1460 Rounds: 12
-Game 17: Won! Balance: 3700 Rounds: 27
-Game 18: Won! Balance: 3560 Rounds: 26
-Game 19: Won! Balance: 3320 Rounds: 15
-Game 20: Won! Balance: 4310 Rounds: 33
-Game 21: Won! Balance: 2800 Rounds: 6
-Game 22: Won! Balance: 3970 Rounds: 30
-Game 23: Won! Balance: 3100 Rounds: 16
-Game 24: Won! Balance: 3710 Rounds: 28
-Game 25: Won! Balance: 4330 Rounds: 22
-Game 26: Won! Balance: 2730 Rounds: 4
-Game 27: Won! Balance: 2840 Rounds: 6
-Game 28: Won! Balance: 2860 Rounds: 7
-Game 29: Won! Balance: 3020 Rounds: 9
-Game 30: Won! Balance: 4260 Rounds: 44
-Game 31: Won! Balance: 2900 Rounds: 8
-Game 32: Won! Balance: 2860 Rounds: 7
-Game 33: Won! Balance: 3150 Rounds: 15
-Game 34: Won! Balance: 2960 Rounds: 6
-Game 35: Won! Balance: 3220 Rounds: 14
-Game 36: Won! Balance: 3080 Rounds: 7
-Game 37: Won! Balance: 3610 Rounds: 15
-Game 38: Won! Balance: 2780 Rounds: 6
-Game 39: Won! Balance: 3480 Rounds: 23
-Game 40: Won! Balance: 3330 Rounds: 15
+Game 1: Won! Balance: 3050 Rounds: 8
+Game 2: Lost! Balance: 2140 Rounds: 32
+Game 3: Won! Balance: 3340 Rounds: 15
+Game 4: Won! Balance: 3080 Rounds: 14
+Game 5: Won! Balance: 3390 Rounds: 16
+Game 6: Won! Balance: 4000 Rounds: 27
+Game 7: Won! Balance: 4270 Rounds: 45
+Game 8: Won! Balance: 5310 Rounds: 69
+Game 9: Won! Balance: 3620 Rounds: 12
+Game 10: Won! Balance: 3260 Rounds: 7
+Game 11: Won! Balance: 3170 Rounds: 15
+Game 12: Won! Balance: 3430 Rounds: 12
+Game 13: Won! Balance: 2730 Rounds: 4
+Game 14: Won! Balance: 3700 Rounds: 26
+Game 15: Won! Balance: 3510 Rounds: 27
+Game 16: Won! Balance: 5320 Rounds: 60
+Game 17: Won! Balance: 3300 Rounds: 9
+Game 18: Won! Balance: 3220 Rounds: 17
+Game 19: Won! Balance: 2990 Rounds: 7
+Game 20: Won! Balance: 3020 Rounds: 12
+Game 21: Won! Balance: 3170 Rounds: 13
+Game 22: Won! Balance: 3950 Rounds: 38
+Game 23: Won! Balance: 3170 Rounds: 17
+Game 24: Won! Balance: 2880 Rounds: 7
+Game 25: Won! Balance: 2780 Rounds: 5
+Game 26: Won! Balance: 2800 Rounds: 5
+Game 27: Won! Balance: 3600 Rounds: 30
+Game 28: Won! Balance: 3160 Rounds: 10
+Game 29: Lost! Balance: 1830 Rounds: 18
+Game 30: Won! Balance: 3210 Rounds: 12
+Game 31: Lost! Balance: 1450 Rounds: 10
+Game 32: Won! Balance: 3230 Rounds: 6
+Game 33: Won! Balance: 2810 Rounds: 4
+Game 34: Won! Balance: 3030 Rounds: 8
+Game 35: Won! Balance: 2730 Rounds: 4
+Game 36: Won! Balance: 3580 Rounds: 14
+Game 37: Won! Balance: 3320 Rounds: 8
+Game 38: Won! Balance: 3330 Rounds: 15
+Game 39: Won! Balance: 2730 Rounds: 4
+Game 40: Won! Balance: 3210 Rounds: 6
 Won 37 out of 40 games. (92.5%)
-Net profit: 24700 (617.5 per game)
+Net profit: 27420 (685.5 per game)
 ```
 
 <details>
